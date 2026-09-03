@@ -1,55 +1,38 @@
-<div align="center">
-
 # Shekhar Gupta
 
-Software Engineer
+<a href="https://linkedin.com/in/shekhar-sg">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shekhargupta.sg.in@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email" />
+</a>
 
-Building modern web applications with a focus on
-performance, scalability, and clean engineering.
+## Software Engineer
 
-<br />
+Building modern web applications with a focus on clean interfaces, reliable systems, and performance.
 
-[LinkedIn](https://linkedin.com/in/shekhar-sg) ·
-[GitHub](https://github.com/shekharsg)
+## About
 
-</div>
+Software Engineer with 1+ year of experience building modern web applications using React.js, Next.js, Node.js, and
+Express.js.
 
----
+I enjoy solving real-world problems, working across the stack, and building applications that are clean, scalable, and
+reliable.
 
-### About
+## Tech
 
-Software Engineer with 1+ year of experience building modern web applications
-across the frontend and backend.
+![Tech](https://skillicons.dev/icons?i=react,nextjs,remix,ts,js,tailwind,mui,redux,nodejs,expressjs,nestjs,postgres,mongodb,prisma,vitest,postman,git,github,docker,figma,vercel&perline=10)
 
-I work primarily with React.js, Next.js, TypeScript, Node.js, and Express.js,
-and enjoy solving real-world problems through simple, scalable solutions.
+## Currently
 
-My interests are around building reliable products, improving performance,
-and understanding systems beyond just the UI.
-
----
-
-### Technologies
-
-**Frontend**  
-React.js · Next.js · Remix.js · TypeScript · JavaScript · Redux · Zustand · Tailwind CSS
-
-**Backend**  
-Node.js · Express.js · Nest.js · REST APIs · Socket.io · Microservices
-
-**Data**  
-PostgreSQL · MongoDB · Prisma
-
-**Testing & DevOps**  
-Jest · Vitest · Playwright · Docker · Git · GitHub · Vercel
-
-**Other**  
-SSR · SEO · WebRTC · Third-party API integrations
+Going deeper into backend architecture, system design, performance, and building software that scales without becoming
+unnecessarily complicated.
 
 ---
 
 <div align="center">
 
-> Make it simple. Make it reliable. Make it useful.
+> simple on the surface · thoughtful underneath
 
 </div>
