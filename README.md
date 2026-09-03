@@ -1,69 +1,55 @@
-# Hey, I'm Shekhar 👋
+<div align="center">
 
-### Software Engineer · Full-Stack Developer
+# Shekhar Gupta
 
-I build **scalable, secure, responsive, and high-performance web applications** with a focus on clean architecture, good developer experience, and products that are actually useful.
+Software Engineer
 
-I mostly work across the **frontend and backend**, turning ideas into production-ready applications.
+Building modern web applications with a focus on
+performance, scalability, and clean engineering.
 
----
+<br />
 
-## `01` — What I work with
+[LinkedIn](https://linkedin.com/in/shekhar-sg) ·
+[GitHub](https://github.com/shekharsg)
 
-```text
-Frontend        React · Next.js · TypeScript · JavaScript · Tailwind CSS
-Backend         Node.js · REST APIs · PostgreSQL · Prisma
-Architecture    Full-Stack · Monorepos · Scalable APIs · RBAC
-Tools           Git · GitHub · Docker · Turborepo
-```
+</div>
 
 ---
 
-## `02` — Currently
+### About
 
-```text
-→ Building full-stack applications
-→ Improving system design & backend architecture
-→ Working with TypeScript across the stack
-→ Learning, experimenting, and shipping
-```
+Software Engineer with 1+ year of experience building modern web applications
+across the frontend and backend.
 
----
+I work primarily with React.js, Next.js, TypeScript, Node.js, and Express.js,
+and enjoy solving real-world problems through simple, scalable solutions.
 
-## `03` — A little about my approach
-
-> Write simple code.
->
-> Understand the system.
->
-> Build for scale.
->
-> Keep improving.
-
-I care about **how things work underneath**, not just how they look on the surface.
+My interests are around building reliable products, improving performance,
+and understanding systems beyond just the UI.
 
 ---
 
-## `04` — Featured work
+### Technologies
 
-### TMS — Task Management System
+**Frontend**  
+React.js · Next.js · Remix.js · TypeScript · JavaScript · Redux · Zustand · Tailwind CSS
 
-A full-stack task management platform with projects, tasks, statuses, memberships, comments, labels, filtering, and drag-and-drop workflows.
+**Backend**  
+Node.js · Express.js · Nest.js · REST APIs · Socket.io · Microservices
 
-**TypeScript · React · Node.js · PostgreSQL · Prisma · Turborepo**
+**Data**  
+PostgreSQL · MongoDB · Prisma
+
+**Testing & DevOps**  
+Jest · Vitest · Playwright · Docker · Git · GitHub · Vercel
+
+**Other**  
+SSR · SEO · WebRTC · Third-party API integrations
 
 ---
 
-## `05` — Let's connect
+<div align="center">
 
-[GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/)
+> Make it simple. Make it reliable. Make it useful.
 
----
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-        BUILD  →  LEARN  →  BREAK  →  FIX  →  SHIP
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+</div>
