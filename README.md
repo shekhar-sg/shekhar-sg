@@ -16,7 +16,7 @@ Building modern web applications with a focus on clean interfaces, reliable syst
 
 - Full-stack developer with 1+ year of production experience
 - Comfortable end-to-end — frontend, backend, databases, deployment
-- Care more about "clean and fast" than just "it works"
+- More than making things work — I care about keeping them clean, fast, and reliable.
 - Currently deepening backend architecture and system design skills
 
 ## Tech
